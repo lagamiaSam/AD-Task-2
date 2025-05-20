@@ -139,7 +139,8 @@ AD-ProjectName
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Freepik |To help designers, developers, students, and content creators by offering ready-to-use visual assets that they can use in projects | https://www.freepik.com/ |
+| Chat GPT | The purpose is to guide small details in programming and etc	 | https://chatgpt.com/ |
+| w3school | The purpose is to demonstrate the fundamental concepts of programming declarations, conditional statements, and loops | https://www.w3schools.com/ |
+| Pinterest | The purpose is to present stylish sneaker-themed web visuals and design inspiration, while practicing responsive layout | https://ph.pinterest.com/ |
+| Google | The purpose is to search some related stuff about programming, pictures for assets and etc. | https://www.google.com/ |
