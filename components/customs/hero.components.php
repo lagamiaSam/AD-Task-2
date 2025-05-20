@@ -33,7 +33,7 @@
           showTaglines($brandTaglines);
           $showButton = true;
           if ($showButton) {
-              echo "<br><a href='./page/index.php' class='btn btn-warning btn-lg mt-3'>EXPLORE SNEAKERS</a>";
+              echo "<br><a href='../../pages/pageSampleHere/index.php' class='btn btn-warning btn-lg mt-3'>EXPLORE SNEAKERS</a>";
           }
         ?>
       </p>
