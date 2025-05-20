@@ -8,8 +8,7 @@
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">SneakHub</h3>
 </div>
 <div align="center">
   SneakHub is your ultimate destination for premium basketball sneakers. Discover top brands like Nike, Adidas, and Jordan — all curated for style and performance. Step into the game with confidence and elevate your sneaker game at SneakHub.
