@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
     <div class="container-fluid">
         <a class="navbar-brand fw-bold d-flex align-items-center" href="#">
-            <img src="./assets/img/sneaker-logo.png" alt="SneakHub Logo" height="50" class="d-inline-block align-text-top" />
+            <img src="../../assets/img/sneaker-logo.png" alt="SneakHub Logo" height="50" class="d-inline-block align-text-top" />
             <span class="ms-3 fs-4">SneakHub</span>
         </a>
 
@@ -19,9 +19,9 @@
                 <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                     <?php 
                     $navLinks = [
-                        ["href" => "index.php", "label" => "HOME"],
+                        ["href" => "../../index.php", "label" => "HOME"],
                         ["href" => "about.php", "label" => "ABOUT"],
-                        ["href" => "sneakers.php", "label" => "SNEAKERS"]
+                        ["href" => "../../pages/pageSampleHere/index.php", "label" => "SNEAKERS"]
                     ];
                     foreach ($navLinks as $link): ?>
                         <li class="nav-item">
