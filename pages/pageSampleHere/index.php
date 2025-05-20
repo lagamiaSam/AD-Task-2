@@ -14,7 +14,7 @@ require_once BASE_PATH . '/components/templates/nav.component.php';
     "Lebron 30" => ["brand" => "Nike", "price" => 150, "category" => "Basketball"],
     "Ultra Boost" => ["brand" => "Adidas", "price" => 180, "category" => "Running"],
     "J1 Blue Bat" => ["brand" => "Jordan", "price" => 120, "category" => "Casual"],
-    "Jordan 1 (Travis Scott" => ["brand" => "Jordan", "price" => 200, "category" => "Casual"],
+    "Jordan 1 (Travis Scott)" => ["brand" => "Jordan", "price" => 200, "category" => "Casual"],
     "Adidas Samba" => ["brand" => "Adidas", "price" => 160, "category" => "Casual"]
   ];
 
