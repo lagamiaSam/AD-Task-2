@@ -4,9 +4,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/lagamiaSam/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/sneaker-logo.png" alt="Nyebe" width="130" height="100">
   </a>
   <h3 align="center">SneakHub</h3>
 </div>
