@@ -11,9 +11,8 @@
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
 </div>
-<!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  SneakHub is your ultimate destination for premium basketball sneakers. Discover top brands like Nike, Adidas, and Jordan — all curated for style and performance. Step into the game with confidence and elevate your sneaker game at SneakHub.
 </div>
 
 <br />
